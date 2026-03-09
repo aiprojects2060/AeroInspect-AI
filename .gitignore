@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+# Dataset and downloaded files
+aircraft_damage_dataset_v1/
+aircraft_damage_dataset_v1.tar
+pip_packages/
+Final_Project_Classification_and_Captioning.md
+
+# OS generated files
+.DS_Store
+Thumbs.db
